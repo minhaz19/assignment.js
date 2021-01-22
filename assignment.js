@@ -50,7 +50,7 @@ function hotelCost(days){
     return totalCost;
     }
     else{
-        return "Staying days can't be negetive or Zero."
+        return "Staying days can't be negetive or Zero.";
     }
 }
 
